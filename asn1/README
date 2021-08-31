@@ -1,9 +1,5 @@
-I have spent a very long time trying to make a custom Makefile as I remember how things were done in CS2211.
-However, because I am working on CLion which has concrete makefile that cannot be modified, it is likely why
-my custom makefile is not visible by the program. I just wanted to mention this as I spent a lot of time and it
-would be sad to lose marks on this after I invested so much time on what should not be a complex issue.
 -------------------------------------------
-So, to run my program(s), I execute:
+To run my program(s), I execute:
 
 make asn1_a
 

@@ -14,3 +14,14 @@ The course concentrates on the logical process that leads to the creation of the
 rather than the algorithm itself, and the techniques for evaluating the performance of algorithms. 
 The central idea is that Computer Science is more than mere recipes; it is about
 computational thinking.
+
+--- Course Topics Covered ---
+
+• algorithm design basics: algorithm design with mathematical induction, asymptotic
+  notation, and solving recurrence relations.
+• algorithm design techniques: divide and conquer, dynamic programming, greedy algorithms, and backtracking.
+• searching, sorting, and union-find.
+• trees and red-black trees.
+• string matching, sequence comparison, and Huffman codes.
+• graph algorithms.
+• NP-completeness.

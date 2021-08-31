@@ -2,6 +2,7 @@
 Analysis of Algorithms
 
 --- Course Description ---
+
 Algorithms are precisely stated, general problem solving methods suitable for computer
 implementation. Data Structures are methods of organizing data involved in computation.
 Algorithms and data structures are central objects of study in computer science. Once
